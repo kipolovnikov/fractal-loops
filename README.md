@@ -9,6 +9,8 @@ What it contains?
 for the two theories: all-diagrams Markov theory (limitations: ideal chain d_f=2 and exponentiall loop size distribution) 
 and one-loop approximation (limitations: only first-order loop diagrams, \lambda/g \ll 1);
 
+-- the code for numerical generation of the contact probability curves (enhanced with lp);
+
 -- collection of numerically generated curves (with lp) for various combinations of parameters;
 
 -- dataframes with log. derivatives of experimental contact probability curves;
