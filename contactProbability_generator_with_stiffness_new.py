@@ -14,6 +14,8 @@
 # at pos1, pos2 on the chain. Contact probability may be computed as 1/sqrt(d_eff)**x where x = 1,2,3,... 
 # is the dimension of the real space
 
+# looplib module is required; https://github.com/golobor/looplib
+
 import numpy as np
 import matplotlib.pyplot as plt
 import looplib.looplib  as lp
